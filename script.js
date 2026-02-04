@@ -1,0 +1,1 @@
+// This file contains JavaScript code for the task manager application.
